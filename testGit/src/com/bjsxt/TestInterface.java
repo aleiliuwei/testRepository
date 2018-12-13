@@ -8,5 +8,7 @@ public interface TestInterface {
 	void m2();
 
 	void s1();
+	
+	void s2();
 
 }
